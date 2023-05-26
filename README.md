@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhpixel517
-- 👀 I’m interested in Python/Flutter/C++/ReverseEngineering
-- 🌱 I’m currently learning about audio streaming in C++
+- 👀 I’m interested in Python/Flutter/Rust
+- 🌱 I’m currently learning about Flutter MVVM architecture
 - 💞️ I’m looking to collaborate on anything!!
 - 📫 How to reach me: zhpixel517@gmail.com
 - groupmicapp.com
