@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhpixel517
 - 👀 I’m interested in Python/Flutter/Rust
-- 🌱 I’m currently learning about Flutter MVVM architecture
-- 💞️ I’m looking to collaborate on anything!!
+- 🌱 I’m currently learning about Rust audio!
+- 💞️ I’m looking to collaborate on making beautiful cross platform apps
 - 📫 How to reach me: zhpixel517@gmail.com
 - groupmicapp.com
 
