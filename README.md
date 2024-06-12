@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhpixel517
-- 👀 I’m interested in Python/Flutter/Rust
-- 🌱 I’m currently learning about Rust audio!
+- 👀 I’m interested in Flutter apps and audio programming
+- 🌱 I’m currently learning about C++/Rust for audio!
 - 💞️ I’m looking to collaborate on making beautiful cross platform apps
 - 📫 How to reach me: zhpixel517@gmail.com
 - groupmicapp.com
